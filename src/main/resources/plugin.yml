@@ -1,0 +1,17 @@
+name: BetterPlots
+version: 1.0
+main: play.mcdev.tv.betterplots.Main
+api-version: '1.20'
+author: Daddel
+website: https://x.com/officialdaddel
+description: menu for the plot
+commands:
+  plotmanager:
+    description: open the plot menu
+    aliases: [pm, pmanager]
+  border:
+    description: sends -> use /plotmanager
+    aliases: [rand]
+  wall:
+    description: sends -> use /plotmanager
+    aliases: [wall]
